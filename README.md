@@ -1,7 +1,7 @@
 # just-do-it
 인스타그램 클론코딩
 
-|        | Username      | talk to me about... |
+|        | User name      | talk to me about... |
 |:------ | :-----------: |:--------------------:|
 |        | 정다운  |    Front-end         |
 |        | 정요셉  |                      |
